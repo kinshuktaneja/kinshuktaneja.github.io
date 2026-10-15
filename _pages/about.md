@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About Me**
-
 Hi, I’m Kinshuk. I’m a doctoral researcher in health economics at RWI – Leibniz Institute for Economic Research and the University of Duisburg-Essen, supervised by Hendrik Schmitz and Martin Karlsson. My research asks how policy shapes some of life’s most consequential decisions, and I try to answer that question with careful, credible evidence.
 
 My PhD is part of HEPARD (Health Economic Policy Advice with Real-world Data), a Marie Skłodowska-Curie Doctoral Network funded under Horizon Europe. HEPARD brings together twelve doctoral researchers across Germany, the Netherlands, Norway, Sweden and Romania. Its partners include the Universities of Duisburg-Essen, Oslo, Tilburg and Uppsala, Babeș-Bolyai University, RWI, and non-academic partners such as the World Health Organization and AOK. The network’s shared goal is to understand and reduce health inequalities in Europe by evaluating real-world policies with modern causal inference methods.
