@@ -11,35 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, University of Duisburg-Essen (expected)
+* MSc International Economics, Erasmus University Rotterdam, 2024–2025
+* BSc Economics and Business Economics (IBEB) with Honours (BHRC), Erasmus University Rotterdam, 2020–2023
+* Semester Exchange, HKU Business School, The University of Hong Kong, 2022
+* International Baccalaureate (IB) Diploma, International School of Hilversum, 2013–2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026–present: Researcher
+RWI, Research Division “Health Economics”
+Supervisor: Prof. Hendrik Schmitz
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024–2026: Member of the Supervisory Board
+Economische Facultietsvereniging Rotterdam (EFR)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023–2024: IT & Strategy Officer, 60th Board
+Economische Facultietsvereniging Rotterdam (EFR)
+
+* 2022–2023: Research Assistant, Bachelor’s Research Honours Class
+Erasmus School of Economics
+Supervisor: Prof. Sacha Kapoor
+
+* 2021–2022: Summer Intern, Revenue Operations
+Equalture, Rotterdam
   
-Skills
+Skills & Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research (Academic)
+Conference/Seminar Presentations
+Writing for peer-reviewed Journals
+Data Analysis: Causal Inference (R, Stata)
+
+* Organisation and Strategy
+Large Scale Event Organisation (Conferences, Recruitment Events)
+Strategic Workshops Co-ordination
+Supervision of Organisational Teams
+
+Languages
+* Hindi — Native (C2)
+* English — Fluent (C2)
+* Dutch — Upper Intermediate (B2)
+* French — Elementary (A2)
 
 Publications
 ======
