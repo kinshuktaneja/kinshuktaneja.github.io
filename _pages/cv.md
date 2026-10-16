@@ -39,14 +39,14 @@ Equalture, Rotterdam
 Skills & Languages
 ======
 * Research (Academic)
-Conference/Seminar Presentations
-Writing for peer-reviewed Journals
-Data Analysis: Causal Inference (R, Stata)
+  * Conference/Seminar Presentations
+  * Writing for peer-reviewed Journals
+  *Data Analysis: Causal Inference (R, Stata)
 
 * Organisation and Strategy
-Large Scale Event Organisation (Conferences, Recruitment Events)
-Strategic Workshops Co-ordination
-Supervision of Organisational Teams
+  * Large Scale Event Organisation (Conferences, Recruitment Events)
+  * Strategic Workshops Co-ordination
+  * Supervision of Organisational Teams
 
 Languages
 * Hindi — Native (C2)
